@@ -1,1 +1,3 @@
-echo *.csv >> .gitignore
+*.csv
+*.ipynb_checkpoints/
+*.xlsx
