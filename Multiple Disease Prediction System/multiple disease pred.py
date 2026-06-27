@@ -7,7 +7,7 @@ from streamlit_option_menu import option_menu
 # Loading the saved models
 
 diabetes_model = pickle.load(open('E:/ML/Multiple Disease Prediction System/diabetes_model.sav', 'rb'))
-heart_diasase_model = pickle.load(open('E:/ML/Multiple Disease Prediction System/heart.csv','rb'))
+heart_diasase_model = pickle.load(open('E:/ML/Multiple Disease Prediction System/heart_disease_model.sav','rb'))
 parkinsons_model = pickle.load(open('E:/ML/Multiple Disease Prediction System/parkinsons_model.sav', 'rb'))
 
 

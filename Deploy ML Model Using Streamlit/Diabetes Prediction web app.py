@@ -11,6 +11,8 @@ loaded_model = pickle.load(open('E:/ML/Deploy ML Model Using Streamlit/trained_m
 
 def diabetes_prediction(input_data):
     
+    input_data = [float(x) for x in input_data]
+    
     input_data_as_numpy_array = np.asarray(input_data)
 
     input_data_reshaped = input_data_as_numpy_array.reshape(1 , -1)

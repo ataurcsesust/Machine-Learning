@@ -1,0 +1,4 @@
+ cd "E:\ML\Multiple Disease Prediction System"
+ streamlit run "multiple disease pred.py" 
+
+these two promt are use to run the code.
