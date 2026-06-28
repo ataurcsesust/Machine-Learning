@@ -1,0 +1,18 @@
+Step 1: আগে FastAPI server চালু করো
+
+তোমার project folder এ যাও
+
+cd "E:\ML\ML Model as API"
+
+তারপর run করো
+
+uvicorn main:app --reload
+
+
+
+Step 2: নতুন PowerShell খুলে
+cd "E:\ML\ML Model as API"
+
+তারপর
+
+python test.py
