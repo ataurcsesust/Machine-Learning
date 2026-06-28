@@ -225,16 +225,6 @@ Some projects included in this repository:
 
 ---
 
-
-### Interests
-
-- Machine Learning
-- Artificial Intelligence
-- Data Science
-- Backend Development
-- Competitive Programming
-
-
 <div align="center">
 
 ## 🚀 Happy Learning & Happy Coding!
